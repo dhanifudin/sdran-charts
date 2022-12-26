@@ -1,0 +1,8 @@
+image:
+  repository: dhanifudin/qos-xapp
+  pullPolicy: IfNotPresent
+  tag: latest
+
+service:
+  grpc:
+    port: 5150

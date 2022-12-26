@@ -1,0 +1,11 @@
+apiVersion: v2
+name: qos-xapp
+description: QoS xApp
+kubeVersion: ">=1.16.0"
+type: application
+version: 0.1.1
+appVersion: v0.1.1
+home: https://github.com/dhanifudin
+maintainers:
+  - name: Dian Hanifudin Subhi
+    email: dhanifudin@gmail.com
